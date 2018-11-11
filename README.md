@@ -2,7 +2,7 @@
 
 This is a Visual Studio Code extention that adds the display of the [EOF] mark to the end of the file.
 
-"[EOF] mark" is what is displayed at the end of "Hidemaru", "TepaPad" and other editors.
+"[EOF] mark" is what is displayed at the end of "Hidemaru", "TeraPad" and other editors.
 
 ## Features
 
