@@ -1,7 +1,7 @@
 jobs:
 - job: Windows
   pool:
-    name: Hosted Windows
+    name: Hosted VS2017
     demands: npm
   steps:
   - task: NodeTool@0
