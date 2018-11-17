@@ -2,6 +2,8 @@
 
 This is a Visual Studio Code extention that adds the display of the [EOF] mark to the end of the file.
 
+![EOF-Mark Display sample](images/display-sample.jpg)
+
 "[EOF] mark" is what is displayed at the end of "Hidemaru", "TeraPad" and other editors.
 
 ## Features
