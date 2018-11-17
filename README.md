@@ -1,14 +1,14 @@
-# eof-mark
+# EOF Mark
 
-This is a Visual Studio Code extention that adds the display of the [EOF] mark to the end of the file.
+This is a Visual Studio Code extention that adds the '[EOF]' mark to the end of the file.
 
 ![EOF-Mark Display sample](images/display-sample.jpg)
 
-"[EOF] mark" is what is displayed at the end of "Hidemaru", "TeraPad" and other editors.
+The '[EOF]' mark is the one that is displayed at the end of the file in the Hidemaru Editor, TeraPad and other editors. 
 
 ## Features
 
-Simply, [EOF] is displayed in gray at the end of the opened editor.
+Simply, the '[EOF]' mark is displayed in gray at the end of the opened editor space.
 
 ## Requirements
 
@@ -20,12 +20,10 @@ There is none.
 
 ## Release Notes
 
-### 0.0.1
-
-Initial release.
+See [CHANGELOG](CHANGELOG.md).
 
 ## License
 
-MIT License.
+[MIT License](https://opensource.org/licenses/MIT).
 
 [EOF]

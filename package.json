@@ -1,9 +1,17 @@
 {
     "name": "eof-mark",
     "displayName": "EOF Mark",
-    "description": "It is a vscode extention that adds the display of the [EOF] mark to the end of the file.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "msfukui",
+    "description": "Add the '[EOF]' mark to the end of the file.",
+    "author": {
+        "name": "msfukui"
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "gray",
+        "theme": "light"
+    },
     "license": "MIT License (see. https://opensource.org/licenses/MIT)",
     "engines": {
         "vscode": "^1.28.0"
@@ -14,11 +22,6 @@
     "categories": [
         "Other"
     ],
-    "icon": "images/icon.png",
-    "galleryBanner": {
-        "color": "gray",
-        "theme": "dark"
-    },
     "activationEvents": [
         "*"
     ],
