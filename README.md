@@ -1,6 +1,8 @@
 # EOF Mark
 
-This is a Visual Studio Code extention that adds the '[EOF]' mark to the end of the file.
+[![Build Status](https://dev.azure.com/msfukui/vscode-extention-eof-mark/_apis/build/status/msfukui.vscode-extention-eof-mark?branchName=master)](https://dev.azure.com/msfukui/vscode-extention-eof-mark/_build/latest?definitionId=1?branchName=master)
+
+This is a Visual Studio Code extension that adds the '[EOF]' mark to the end of the file.
 
 ![EOF-Mark Display sample](images/display-sample.jpg)
 

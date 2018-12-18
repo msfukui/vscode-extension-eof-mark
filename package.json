@@ -1,7 +1,7 @@
 {
     "name": "eof-mark",
     "displayName": "EOF Mark",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "msfukui",
     "description": "Add the '[EOF]' mark to the end of the file.",
     "author": {
@@ -12,12 +12,12 @@
         "color": "gray",
         "theme": "light"
     },
-    "license": "MIT License (see. https://opensource.org/licenses/MIT)",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.28.0"
     },
     "repository": {
-        "url": "https://github.com/msfukui/vscode-extention-eof-mark"
+        "url": "https://github.com/msfukui/vscode-extension-eof-mark"
     },
     "categories": [
         "Other"
@@ -35,10 +35,10 @@
         "test": "npm run compile && node ./node_modules/vscode/bin/test"
     },
     "devDependencies": {
-        "typescript": "^2.6.1",
-        "vscode": "^1.1.21",
-        "tslint": "^5.8.0",
-        "@types/node": "^8.10.25",
-        "@types/mocha": "^2.2.42"
+        "typescript": "^3.2.2",
+        "vscode": "^1.1.26",
+        "tslint": "^5.12.0",
+        "@types/node": "^10.12.15",
+        "@types/mocha": "^5.2.5"
     }
 }

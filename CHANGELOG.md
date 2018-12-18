@@ -18,3 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added a icon file and a display sample image.
 - Update a manifest file to released to the marketplace.
+
+## [0.1.0] - 2018-12-18
+
+### Fix
+
+- Fixed github's security update messages.
+
